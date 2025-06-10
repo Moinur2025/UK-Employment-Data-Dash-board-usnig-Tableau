@@ -16,12 +16,17 @@ This Tableau dashboard explores **employment trends in the UK** between **2011 a
   - **Human Health and Social Work Activities**
 - Shows which broad industries are driving UK employment growth.
 
+![Industry By Change](https://github.com/user-attachments/assets/194200b2-6bfc-46ea-8436-fc927e90b6ae)
+
+
 ---
 
 ### 2. Total Employment by City
 - **Packed bubble chart** showing **total number of jobs per city**.
 - **London** dominates with **4,304,170 jobs**, followed by other major urban areas.
 - The size of each bubble represents the city's workforce size, giving a quick comparison of employment hubs.
+
+![Employee by City](https://github.com/user-attachments/assets/ca70810b-b860-4f5a-a5d0-a065a1e10b6c)
 
 ---
 
@@ -33,6 +38,8 @@ This Tableau dashboard explores **employment trends in the UK** between **2011 a
   - Southeast England: **0.14%**
 - Helps identify geographic regions with the fastest and slowest job growth.
 
+![Change by City](https://github.com/user-attachments/assets/5b4c5cc5-18c3-449d-897e-5152cf05d1ad)
+
 ---
 
 ### 4. Top 10 Industries by Jobs in 2011 and 2014
@@ -41,6 +48,9 @@ This Tableau dashboard explores **employment trends in the UK** between **2011 a
   - **Human Health and Social Work** grew from ~1.85M to ~1.91M jobs.
   - **Accommodation and Food Services** grew from ~916K to ~924K.
 - Helps visualize both the scale and change across industries.
+
+![Top 10 Industry By 2011 and 2014](https://github.com/user-attachments/assets/5c3de433-2017-4bdf-9274-d2a4cd705f30)
+
 
 ---
 
@@ -51,6 +61,9 @@ This Tableau dashboard explores **employment trends in the UK** between **2011 a
   - **Head Offices & Management Consultancy** (+57,176)
   - **Human Health Activities**, **Education**, and **Retail Trade**
 - Provides a more detailed view than industry-level charts, helping to pinpoint job opportunities.
+
+![Sub Industry by change](https://github.com/user-attachments/assets/cde3c51d-5669-4e99-837e-43e0e9ec99e0)
+
 
 ---
 
