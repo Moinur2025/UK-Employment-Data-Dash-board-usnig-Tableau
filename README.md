@@ -84,3 +84,8 @@ This Tableau dashboard explores **employment trends in the UK** between **2011 a
 ## 🎯 Project Purpose
 - Created for **coursework** and as a base for **business planning and bank finance applications**.
 - Designed to communicate key employment trends to stakeholders, including investors, educators, and local councils.
+
+## My Dashboard
+
+https://public.tableau.com/app/profile/a.b.m.moinur.rahman/viz/UKEmploymentData_17466215011000/Dashboard1?publish=yes
+
