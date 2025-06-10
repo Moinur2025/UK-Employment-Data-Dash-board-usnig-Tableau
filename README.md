@@ -87,5 +87,6 @@ This Tableau dashboard explores **employment trends in the UK** between **2011 a
 
 ## My Dashboard
 
-https://public.tableau.com/app/profile/a.b.m.moinur.rahman/viz/UKEmploymentData_17466215011000/Dashboard1?publish=yes
+
+![Dash Board](https://github.com/user-attachments/assets/2f5510a4-67b0-4ed7-89d6-dcb017cd58b4)(https://public.tableau.com/app/profile/a.b.m.moinur.rahman/viz/UKEmploymentData_17466215011000/Dashboard1?publish=yes)
 
